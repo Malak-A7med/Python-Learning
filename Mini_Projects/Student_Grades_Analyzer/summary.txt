@@ -1,0 +1,4 @@
+Name,Math,English,Science,Average,Grade
+Layla,99,90,87,92.0,A
+Malak,90,85,80,85.0,B
+Younis,95,88,92,91.67,A
